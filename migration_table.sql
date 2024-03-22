@@ -17,4 +17,4 @@ CREATE TABLE items(
 );
 
 ALTER TABLE orders
-RENAME COLUMN order_at TO ordered_at;
+RENAME COLUMN order_at TO ordered_at;git 
